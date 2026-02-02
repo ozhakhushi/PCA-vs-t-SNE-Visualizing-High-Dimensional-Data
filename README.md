@@ -23,10 +23,4 @@ The project uses publicly available datasets (e.g., Wine dataset, Iris dataset) 
 
 ---
 
-## Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/pca-tsne-project.git
-cd pca-tsne-project
